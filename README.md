@@ -1,12 +1,10 @@
-# test_flame
+# flutter flame game
 
-A new Flutter project.
+Um exemplo disponível em tutorial na [página](https://docs.flame-engine.org/latest/tutorials/space_shooter/step_1.html) 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+`flutter pub add flame`
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
