@@ -1,7 +1,7 @@
 [![Star on GitHub](https://img.shields.io/github/stars/kauemurakami/flutter_flame_game.svg?style=flat&logo=github&colorB=deeppink&label=stars)](https://github.com/kauemurakami/flutter_flame_game) 
 # flutter flame game
 
-![Demonstração](assets/battery-iphone.gif) 
+![Demonstração](assets/appgif.gif) 
 
 Um exemplo disponível em tutorial na [página](https://docs.flame-engine.org/latest/tutorials/space_shooter/step_1.html) 
 
