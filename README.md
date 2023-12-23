@@ -1,5 +1,7 @@
 # flutter flame game
 
+![Demonstração](assets/battery-iphone.gif) 
+
 Um exemplo disponível em tutorial na [página](https://docs.flame-engine.org/latest/tutorials/space_shooter/step_1.html) 
 
 ## Getting Started
